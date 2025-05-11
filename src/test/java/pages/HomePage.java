@@ -18,7 +18,7 @@ public class HomePage {
         driver.findElement(firstProduct).click();
     }
 
-    // Navigate to the cart
+    // Navigate to the cart123
     public void goToCart() {
         driver.findElement(By.className("shopping_cart_link")).click();
     }
